@@ -1,0 +1,4 @@
+venv/
+.ipynb_checkpoints/
+*.hdf5
+data/
